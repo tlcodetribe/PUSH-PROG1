@@ -1,0 +1,104 @@
+h2{
+    font-style: italic;
+}
+
+.btn1 {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.btn1:hover {
+    background-color: #3e8e41
+}
+
+.btn1:active {
+    transform: translateY(4px);
+}
+
+.btn2 {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.btn2:hover {
+    background-color: #3e8e41
+}
+
+.btn2:active {
+    transform: translateY(4px);
+}
+
+.Context {
+    display: flex;
+}
+
+.pic {
+    width: fit-content;
+}
+
+.txt {
+    float: left;
+}
+
+
+.Txt {
+    display: flex;
+}
+
+.cont {
+    width: fit-content;
+}
+
+.nxt {
+    float: left;
+}
+
+
+.Footer {
+    display: flex;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    background-color:lightgray;
+    color: white;
+    text-align: center;
+}
+
+.Facebook {
+    width: fit-content;
+}
+
+.Twitter {
+    width: fit-content;
+}
+
+.Icons {
+    display: flex;
+}
+
+.black {
+    width: fit-content;
+}
+
+.snip {
+    width: fit-content;
+}
+
+.prev {
+    width: fit-content;
+}
+    
+    
